@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .wordpress {
-  	width: 50%;
+  	width: 80%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -357,98 +357,98 @@ ul#nav li.current a { color: #F06000; }
 }
 .php{
    width: 88%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: php 2s ease;
+   -webkit-animation: php 2s ease;
 }
 .angular{
    width: 70%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: angular 2s ease;
+   -webkit-animation: angular 2s ease;
 }
 .java{
    width: 60%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
 }
 .python{
    width: 80%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: python 2s ease;
+   -webkit-animation: python 2s ease;
 }
 .sprint{
    width: 60%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: sprint 2s ease;
+   -webkit-animation: sprint 2s ease;
 }
 .vuejs{
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: vuejs 2s ease;
+   -webkit-animation: vuejs 2s ease;
 }
 .laravel{
-   width: 85%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   width: 90%;
+   -moz-animation: laravel 2s ease;
+   -webkit-animation: laravel 2s ease;
 }
 .codeigniter{
    width: 85%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: codeigniter 2s ease;
+   -webkit-animation: codeigniter 2s ease;
 }
 .serverManaging{
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: serverManaging 2s ease;
+   -webkit-animation: serverManaging 2s ease;
 }
 .dbManaging{
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: dbManaging 2s ease;
+   -webkit-animation: dbManaging 2s ease;
 }
 .mysql{
    width: 85%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: mysql 2s ease;
+   -webkit-animation: mysql 2s ease;
 }
 .sql{
    width: 85%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
 }
 .hosting{
    width: 70%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: hosting 2s ease;
+   -webkit-animation: hosting 2s ease;
 }
 .deployment{
    width: 60%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: deployment 2s ease;
+   -webkit-animation: deployment 2s ease;
 }
 .react{
    width: 65%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: react 2s ease;
+   -webkit-animation: react 2s ease;
 }
 .angularjs{
    width: 80%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: angularjs 2s ease;
+   -webkit-animation: angularjs 2s ease;
 }
 .reactjs{
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
 }
 .datastudio{
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: datastudio 2s ease;
+   -webkit-animation: datastudio 2s ease;
 }
 .analytics{
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: analytics 2s ease;
+   -webkit-animation: analytics 2s ease;
 }
 
 
