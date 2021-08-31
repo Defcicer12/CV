@@ -240,10 +240,15 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("../images/layered-waves-haikei.svg"); 
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#resume a:hover, #resume a:focus { color: black; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -268,7 +273,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: black;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -510,6 +515,11 @@ ul#nav li.current a { color: #F06000; }
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
+   width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("../images/stacked-waves-haikei.svg"); 
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -888,6 +898,11 @@ call-to-action .button {
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
+   width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("../images/low-poly-grid-haikei.svg"); 
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -1100,3 +1115,8 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+/* Circular  progress bars */
+
+.progressbar__label{
+   color: rgb(111, 213, 127) !important;
+}
